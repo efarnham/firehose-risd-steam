@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+/*THIS SITE WAS hacked together with lots of love and attention*/
+
+.steamy-hottub {
+	box-shadow: 0px 0px 0px 0px rgba(36,32,33,0.0);
+	background-color: rgba(236, 240, 241, 0.35);
+	padding: 8%;
+	margin-top:60px
+}
+
+body {
+  background: url(bg.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.custom-font {
+	color: white;
+	font-family: "Source Sans Pro", Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
+	font-weight: 125;
+	font-size: 36px;
+	line-height: 38px;
+}
+
+h2 {
+	color: white ;
+		font-family: "Source Sans Pro", Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
+	font-weight: 100;
+	font-size: 18px;
+	line-height: 20px;
+}
+
+/* .custom-font {
+	color: ;
+	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, san-serif;
+	font-weight: 200;
+	font-size: 36px;
+} 
+*/
