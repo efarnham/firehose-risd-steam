@@ -35,6 +35,7 @@ end
 
 #gem for the twiiter bootstrap framework
 gem "twitter-bootstrap-rails"
+gem 'simple_form'
 
 
 # Use ActiveModel has_secure_password
