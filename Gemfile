@@ -36,6 +36,8 @@ end
 #gem for the twiiter bootstrap framework
 gem "twitter-bootstrap-rails"
 gem 'simple_form'
+gem 'carrierwave'
+gem "fog", "~> 1.3.1"
 
 
 # Use ActiveModel has_secure_password

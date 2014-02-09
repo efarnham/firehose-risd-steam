@@ -1,2 +1,3 @@
 class Pic < ActiveRecord::Base
-end
+	mount_uploader :image, PicUploader
+	end
